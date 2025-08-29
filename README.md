@@ -55,13 +55,13 @@ I'm a passionate **Full Stack Developer** who loves crafting efficient, scalable
 
 ## 📊 GitHub Analytics
 
-<div align="center">
+<div align="">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=descent0&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=descent0&theme=dark&hide_border=false)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=descent0&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=descent0&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=descent0&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=descent0&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+---
+[![](https://visitcount.itsvg.in/api?id=descent0&icon=1&color=0)](https://visitcount.itsvg.in)
 
 </div>
 
