@@ -1,37 +1,126 @@
-# Hi, I'm Dishant 👋
+# Hi there, I'm Dishant! 👋
 
 <div align="center">
-  <img src="[https://github.com/descent0/descent0/blob/main/banner.png](https://media.licdn.com/dms/image/v2/D5616AQH9NZGV85YMhw/profile-displaybackgroundimage-shrink_350_1400/B56ZecKUimHUAc-/0/1750671643657?e=1759363200&v=beta&t=Ifd675ctETuXDqepI5l1i9gSiz00ppPv1m5LzieqWoU)" alt="Banner" width="100%"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Problem+Solver;Tech+Enthusiast;Always+Learning" alt="Typing SVG" />
 </div>
 
-Full Stack Developer passionate about building web applications with modern technologies.
+## 🚀 About Me
 
-## 🛠️ Skills
+I'm a passionate **Full Stack Developer** who loves crafting efficient, scalable solutions and exploring cutting-edge technologies. Currently building amazing web applications with modern frameworks and always eager to take on new challenges!
 
-**Languages:** Java, JavaScript, TypeScript, PHP, SQL
+- 🔭 Currently working on exciting full-stack projects
+- 🌱 Always learning and exploring new technologies
+- 👯 Open to collaborating on innovative projects
+- 💬 Ask me about **React**, **Node.js**, **MongoDB**, or **JavaScript**
+- ⚡ Fun fact: I love turning complex problems into simple, elegant solutions
 
-**Frontend:** React, Next.js, HTML5, CSS3, TailwindCSS, Bootstrap
+## 🌐 Connect With Me
 
-**Backend:** Node.js, Express.js, Spring Boot, WebSockets, WebRTC
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dishant0/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajputdishant891@gmail.com)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/descent0)
 
-**Databases:** MongoDB, MySQL, Oracle
+</div>
 
-**Tools:** Git, GitHub, VS Code, Postman, Vercel
+## 💻 Tech Stack
 
-## 📊 GitHub Stats
+### Languages
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
-![](https://github-readme-stats.vercel.app/api?username=descent0&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=descent0&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=descent0&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+### Frontend
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-## 📈 Activity Graph
+### Backend
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
-[![Dishant's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=descent0&theme=github-dark)](https://github.com/descent0)
+### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
-## 🤝 Connect
+### Tools & Technologies
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24.svg?style=for-the-badge&logo=xampp&logoColor=white)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dishant0/) 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:rajputdishant891@gmail.com)
+### Authentication & Services
+![Google OAuth](https://img.shields.io/badge/Google-OAuth-4285F4?style=for-the-badge&logo=google&logoColor=white)
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=descent0&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=descent0&theme=dark&hide_border=false)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=descent0&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+</div>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  
+![](https://github-profile-trophy.vercel.app/?username=descent0&theme=dark&no-frame=false&no-bg=false&margin-w=4)
+
+</div>
+
+## 🔥 Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+## 📈 Contribution Graph
+
+<div align="center">
+  
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=descent0&theme=github-dark)
+
+</div>
+
+## 💡 Fun Facts
+
+- 🎯 I believe in clean, maintainable code
+- 🚀 Always excited about new JavaScript frameworks and libraries
+- 🌟 Love contributing to open source projects
+- 📚 Continuous learner who enjoys staying updated with tech trends
+- ☕ Powered by coffee and curiosity
+
+## 📫 Let's Collaborate!
+
+I'm always interested in working on exciting projects and connecting with fellow developers. Feel free to reach out if you want to:
+
+- Collaborate on a project
+- Discuss technology and development
+- Share ideas and learn together
+- Just say hi! 👋
 
 ---
-[![](https://visitcount.itsvg.in/api?id=descent0&icon=1&color=0)](https://visitcount.itsvg.in)
+
+<div align="center">
+  
+![Profile Views](https://visitcount.itsvg.in/api?id=descent0&icon=1&color=0)
+
+*"The best way to predict the future is to create it."* - Peter Drucker
+
+**Thank you for visiting my profile!** ⭐
+
+</div>
+
+---
+<sub>💖 Proudly crafted with passion and code</sub>
