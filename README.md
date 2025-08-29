@@ -8,19 +8,12 @@
 
 I'm a passionate **Full Stack Developer** who loves crafting efficient, scalable solutions and exploring cutting-edge technologies. Currently building amazing web applications with modern frameworks and always eager to take on new challenges!
 
-- 🔭 Currently working on exciting full-stack projects
-- 🌱 Always learning and exploring new technologies
-- 👯 Open to collaborating on innovative projects
-- 💬 Ask me about **React**, **Node.js**, **MongoDB**, or **JavaScript**
-- ⚡ Fun fact: I love turning complex problems into simple, elegant solutions
-
 ## 🌐 Connect With Me
 
 <div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dishant0/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajputdishant891@gmail.com)
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/descent0)
 
 </div>
 
@@ -72,18 +65,6 @@ I'm a passionate **Full Stack Developer** who loves crafting efficient, scalable
 
 </div>
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-![](https://github-profile-trophy.vercel.app/?username=descent0&theme=dark&no-frame=false&no-bg=false&margin-w=4)
-
-</div>
-
-## 🔥 Recent Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
 
 ## 📈 Contribution Graph
 
@@ -92,14 +73,6 @@ I'm a passionate **Full Stack Developer** who loves crafting efficient, scalable
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=descent0&theme=github-dark)
 
 </div>
-
-## 💡 Fun Facts
-
-- 🎯 I believe in clean, maintainable code
-- 🚀 Always excited about new JavaScript frameworks and libraries
-- 🌟 Love contributing to open source projects
-- 📚 Continuous learner who enjoys staying updated with tech trends
-- ☕ Powered by coffee and curiosity
 
 ## 📫 Let's Collaborate!
 
@@ -113,10 +86,6 @@ I'm always interested in working on exciting projects and connecting with fellow
 ---
 
 <div align="center">
-  
-![Profile Views](https://visitcount.itsvg.in/api?id=descent0&icon=1&color=0)
-
-*"The best way to predict the future is to create it."* - Peter Drucker
 
 **Thank you for visiting my profile!** ⭐
 
